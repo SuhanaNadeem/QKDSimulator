@@ -15,11 +15,7 @@ export default function NavBar() {
   const [navBar, setNavBar] = useState(false);
 
   const pageLinksAndTitle = [
-    { title: "Home", link: "" },
-    { title: "Activities", link: "activities" },
-    { title: "Projects", link: "projects" },
-    { title: "Awards", link: "awards" },
-    { title: "Volunteer and Work", link: "volunteerAndWork" },
+    { title: "QKD Simulator", link: "" },
     // { title: "Contact", link: "contact" },
   ];
   var imgItem = useRef("hello");
