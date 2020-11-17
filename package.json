@@ -47,6 +47,6 @@
     "autoprefixer": "^9.8.6",
     "nodemon": "^2.0.4",
     "postcss-cli": "^7.1.2",
-    "tailwindcss": "^1.6.1"
+    "tailwindcss": "^1.9.6"
   }
 }
