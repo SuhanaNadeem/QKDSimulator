@@ -20,7 +20,7 @@ export default function Projects() {
     {
       image: doodleLogo,
       title:
-        "Tensorflow 2.2 Challenge: Building AI Responsibly - AI-Generated Google Doodles",
+        "TensorFlow 2.2 Challenge: Building AI Responsibly - AI-Generated Google Doodles",
       description:
         "Web app that provides a custom Google Doodles using the subject and event entered, using Machine Learning techniques like Keras Eager Execution and Neural Style Transfer through Tensorflow.",
       gitLink: "https://github.com/SuhanaNadeem/AI-Generated-Google-Doodles",
